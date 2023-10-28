@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: black;
+    color:yellow;
+    font-size: larger;
+    padding: 10px
+    ;
+}
+header a{
+    color: brown;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    padding: 5 px;
+    }
+    h1{
+color:white;
+background-color: red;
+    }
+
+    nav{
+        background-color: red;
+        padding: 15px;
+       
+    }
+    nav a {
+         color: white;
+         margin-left: 30px;
+         margin-right: 30px;
+    }
+    main img
+    {
+        border: 20px solid rgb(0, 255, 255);
+    }
+
+    main{
+        background-color: rgb(75, 61, 139);
+        color: deepskyblue;
+    }
+    p{
+        text-align:center ;
+    }
+    h1{
+        border:2px solid yellow;
+        padding: 10px;
+        text-align: center;
+    }
